@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "name": "Пицца",
+        "slug": "pizza"
+    },
+    {
+        "id": 2,
+        "name": "Фастфуд",
+        "slug": "fastfood"
+    },
+    {
+        "id": 3,
+        "name": "Напитки",
+        "slug": "drinks"
+    }
+]

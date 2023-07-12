@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "category_id": 1,
+    "name": "Пепперони Ранч",
+    "price": 429,
+    "image": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/PEPERANC/NULL/NULL/RU"
+  },
+  {
+    "id": 2,
+    "category_id": 1,
+    "name": "Чикен Ранч",
+    "price": 429,
+    "image": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/CHIRANCH/NULL/NULL/RU"
+  },
+  {
+    "id": 3,
+    "category_id": 1,
+    "name": "Жюльен",
+    "price": 499,
+    "image": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/JULIEN/NULL/NULL/RU"
+  },
+  {
+    "id": 4,
+    "category_id": 1,
+    "name": "4 сезона",
+    "price": 789,
+    "image": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/4SEASON/NULL/NULL/RU"
+  },
+  {
+    "id": 5,
+    "category_id": 1,
+    "name": "Сырная с ветчиной",
+    "price": 289,
+    "image": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/CHHM/NULL/NULL/RU"
+  },
+  {
+    "id": 6,
+    "category_id": 1,
+    "name": "Пепперони по-деревенски",
+    "price": 289,
+    "image": "https://staticy.dominospizza.ru/api/medium/ProductOsg/Web/PEPDER/NULL/NULL/RU"
+  },
+  {
+    "id": 7,
+    "category_id": 2,
+    "name": "Фирменный картофель из печи",
+    "price": 189,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/KARPECML/NULL/NULL/RU"
+  },
+  {
+    "id": 8,
+    "category_id": 2,
+    "name": "Куриные крылья BBQ",
+    "price": 239,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/CHWSMB/NULL/NULL/RU"
+  },
+  {
+    "id": 9,
+    "category_id": 2,
+    "name": "Куриные крылья",
+    "price": 239,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/CHWSM/NULL/NULL/RU"
+  },
+  {
+    "id": 10,
+    "category_id": 2,
+    "name": "Сэндвич-ролл Жюльен",
+    "price": 179,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/JUROLLST/NULL/NULL/RU"
+  },
+  {
+    "id": 11,
+    "category_id": 2,
+    "name": "Пицца-роллы Пепперони",
+    "price": 219,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/PRPEPSM/NULL/NULL/RU"
+  },
+  {
+    "id": 12,
+    "category_id": 2,
+    "name": "Пицца-роллы Бекон-халапеньо",
+    "price": 219,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/PRBHSM/NULL/NULL/RU"
+  },
+  {
+    "id": 13,
+    "category_id": 3,
+    "name": "Lipton Зеленый чай [AT]",
+    "price": 109,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/LIPGR05/NULL/NULL/RU"
+  },
+  {
+    "id": 14,
+    "category_id": 3,
+    "name": "Lipton Лимон [AT]",
+    "price": 109,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/LIPLM05/NULL/NULL/RU"
+  },
+  {
+    "id": 15,
+    "category_id": 3,
+    "name": "Аква Актив Цитрус негазированная",
+    "price": 109,
+    "image": "https://staticy.dominospizza.ru/api/medium/Product/Global/AQCIT05/NULL/NULL/RU"
+  }
+]
